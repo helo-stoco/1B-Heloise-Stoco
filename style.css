@@ -6,7 +6,13 @@ font-size: 30;
 color: purple;
 font-size: 30;
 }
-
+.imagens {
+ text-align: center;
+ background: black;
+}
+.listas {
+ background:black;
+}
 #imagem {
 text-align:center;
 }
