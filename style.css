@@ -1,7 +1,3 @@
-.lista {
-color: red;
-font-size: 30;
-}
 .minha-lista {
 color: purple;
 font-size: 30;
@@ -13,8 +9,23 @@ font-size: 30;
 .listas {
  background:black;
 }
+.lista {
+color: red;
+font-size: 30;
+}
 #imagem {
 text-align:center;
+border: 20px;
+border-style:solid;
+border-color:blue;
+border-top-left-radius:25px;
+border-top-right-radius:25px;
+border-bottom-left-radius:25px
+border-bottom-right-radius:25px;
+padding-top:20px;
+padding-bottom:20px;
+margin-left:570px;
+margin-right:570px;
 }
 
 #link {
