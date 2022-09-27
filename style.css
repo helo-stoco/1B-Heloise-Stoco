@@ -9,6 +9,14 @@ font-size: 30;
 .listas {
  background:black;
 }
+#cabecalho {
+ text-align: center;
+ background: black;
+ border-bottom-style: solid;
+ margin-left: -7px;
+ margin-right: -7px;
+ margin-top: -8px
+}
 .lista {
 color: red;
 font-size: 30;
@@ -35,7 +43,7 @@ text-align:center;
 p {
    color: red;
    font-size: 30;
-   text-align: right;
+  
 }
 
 h1 {
