@@ -1,10 +1,10 @@
 .minha-lista {
-color: purple;
-font-size: 30;
+ color: purple;
+ font-size: 30;
 }
 .imagens {
  text-align: center;
- background: black;
+ background: white;
 }
 .listas {
  background:black;
@@ -13,47 +13,56 @@ font-size: 30;
  text-align: center;
  background: black;
  border-bottom-style: solid;
- margin-left: -7px;
- margin-right: -7px;
- margin-top: -8px
+ margin-left: -8px;
+ margin-right: -8px;
+ margin-top: 1px
+}
+.rodape {
+ text-align: center;
+ background: black;
+ border-top-style: solid;
+ margin-left: -8px;
+ margin-right: -8px;
+ margin-bottom: -30px;
+ padding: 1px;
 }
 .lista {
-color: red;
-font-size: 30;
+ color: purple;
+ font-size: 30;
 }
 #imagem {
-text-align:center;
-border: 5px;
-border-style:solid;
-border-color:blue;
-border-top-left-radius: 25px;
-border-top-right-radius: 25px;
-border-bottom-left-radius: 25px;
-border-bottom-right-radius: 25px;
-padding-top: 20px;
-padding-bottom: 20px;
-margin-left: 450px;
-margin-right: 450px;
+ text-align:center;
+ border: 5px;
+ border-style:solid;
+ border-color:blue;
+ border-top-left-radius: 25px;
+ border-top-right-radius: 25px;
+ border-bottom-left-radius: 25px;
+ border-bottom-right-radius: 25px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ margin-left: 450px;
+ margin-right: 450px;
 }
 
 #link {
-text-align:center;
+ text-align:center;
 }
 
 p {
-   color: red;
-   font-size: 30;
+ color: red;
+ font-size: 30;
   
 }
 
 h1 {
-    color: blue;
-    text-align: center;
-    font-size: 50;
+ color: blue;
+ text-align: center;
+ font-size: 50;
 }
 
 h2 {
-    color: green;
-    text-align: left;
-    font-size: 40;
+ color: green;
+ text-align: left;
+ font-size: 40;
 }
