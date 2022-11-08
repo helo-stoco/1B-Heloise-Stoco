@@ -6,6 +6,13 @@
  text-align: center;
  background: white;
 }
+#menu {
+ text-align: center;
+ font-size: 30px;
+}
+#lateral {
+ float: right: right;
+}
 .listas {
  background:black;
 }
