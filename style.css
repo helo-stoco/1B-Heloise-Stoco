@@ -1,5 +1,5 @@
 .minha-lista {
- color: purple;
+ color: #9932CC;
  font-size: 30;
 }
 .imagens {
@@ -34,14 +34,14 @@
  padding: 1px;
 }
 .lista {
- color: purple;
+ color: #9932CC;
  font-size: 30;
 }
 #imagem {
  text-align:center;
  border: 5px;
  border-style:solid;
- border-color:blue;
+ border-color:#4B0082;
  border-top-left-radius: 25px;
  border-top-right-radius: 25px;
  border-bottom-left-radius: 25px;
@@ -57,28 +57,29 @@
 }
 
 p {
- color: red;
+ color: #483D8B;
  font-size: 30;
   
 }
 
 h1 {
- color: blue;
+ color:#4B0082;
  text-align: center;
  font-size: 50;
 }
 
 h2 {
- color: green;
+ color: #191970;
  text-align: left;
  font-size: 40;
 }
 #alunos {
- background: lightblue;
+ background: black;
+
 }
-#aluno {
+#alunos {
  font-size: 20px;
- color: lightcoral;
+ color: #9932CC;
  border-style: solid;
  margin-right: 85%;
  margin-top: -2px;
